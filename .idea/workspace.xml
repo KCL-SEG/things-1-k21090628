@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b60d39e-9f48-4a0e-a69f-f703ecfe06b5" name="Changes" comment="" />
+    <list default="true" id="7b60d39e-9f48-4a0e-a69f-f703ecfe06b5" name="Changes" comment="Exercise 1: Add app and home view">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thingproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/thingproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/things/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/things/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,19 +14,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FlmKykm1M8Y0qOe9BrvnLjmo3O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="things-1-k21090628-2" type="Python.DjangoServer" factoryName="Django server">
       <module name="things-1-k21090628-2" />
@@ -57,7 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1665074986232</updated>
       <workItem from="1665074989573" duration="103000" />
+      <workItem from="1665075431632" duration="989000" />
     </task>
+    <task id="LOCAL-00001" summary="Exercise 1: Add app and home view">
+      <created>1665075605836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665075605836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 1: Add app and home view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1: Add app and home view" />
   </component>
 </project>
