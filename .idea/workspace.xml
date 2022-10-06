@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b60d39e-9f48-4a0e-a69f-f703ecfe06b5" name="Changes" comment="Exercise 1: Add app and home view">
+    <list default="true" id="7b60d39e-9f48-4a0e-a69f-f703ecfe06b5" name="Changes" comment="Exercise 2: Add a basic things model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thingproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/thingproject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/things/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/things/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665074986232</updated>
       <workItem from="1665074989573" duration="103000" />
-      <workItem from="1665075431632" duration="989000" />
+      <workItem from="1665075431632" duration="1669000" />
     </task>
     <task id="LOCAL-00001" summary="Exercise 1: Add app and home view">
       <created>1665075605836</created>
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665075605836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise 2: Add a basic things model">
+      <created>1665077089013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665077089013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 1: Add app and home view" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1: Add app and home view" />
+    <MESSAGE value="Exercise 2: Add a basic things model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2: Add a basic things model" />
   </component>
 </project>
